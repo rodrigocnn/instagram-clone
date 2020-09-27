@@ -10,7 +10,7 @@ JAVASCRIPT
 
 ## Layout
 
-<img src="https://github.com/rodrigocnn/soccer-game-memory/blob/master/assets/img/home.png">
+<img src="https://github.com/rodrigocnn/instagram-clone/blob/master/assets/img/home.png">
 
 ## Status do Projeto:
 
